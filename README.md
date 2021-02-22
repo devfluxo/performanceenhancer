@@ -1,4 +1,5 @@
 [Click here to download a Pre-Compiled version](https://github.com/devfluxo/performanceenhancer)
+======
 Improve performance by using Timer Resolution and cleaning up the RAM.
 
 
