@@ -1,4 +1,4 @@
-[Click here to download a Pre-Compiled version](https://github.com/devfluxo/performanceenhancer)
+[Click here to download a Pre-Compiled version](https://github.com/devfluxo/performanceenhancer/releases/tag/1.0.0)
 ======
 Improve performance by using Timer Resolution and cleaning up the RAM.
 
